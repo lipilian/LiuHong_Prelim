@@ -75,8 +75,9 @@
 %% is 0.7 inch wide and centered
 \chapter{Introduction}\label{chapter:intro}
 
-Time-resolved3D particle tracking(3D-PTV) is a powerful technique to investigate particle dynamics and complex fluid flows. For particle tracking in common volume($>$10 cm), tomographic approach, which acquires depth information from multiple simultaneous perspectives on illuminated volumes, is a popular method due to its spatial resolution and
-flexibility in the investigation volume. Tomographic approach usually involves four steps, particle reconstruction, track initialization, prediction and optimization. Although previous researchers proposed advanced prediction and optimization method, such as iterative particle reconstruction (IPR) \citep{wieneke2012iterative} and Shake-The-Box \citep{schanz2016shake}, numerous ghost particle created during the triangulation limits its application in industry area. This study first gets inspired by optimizing 4 views triangulation task, which is further described in \hyperref[chapter:DLT]{Patallelized DLT} chapter.
+Time-resolved3D particle tracking(3D-PTV) is a powerful technique to investigate particle dynamics and complex fluid flows. For particle tracking in common volume($>$10 cm), tomographic approach, which acquires depth information from multiple simultaneous views on illuminated volumes, is a popular method due to its high spatial resolution and
+flexibility in the investigation volume. Tomographic approach usually involves four steps, particle reconstruction, track initialization, prediction and optimization. Although previous researchers proposed advanced prediction and optimization method, such as iterative particle reconstruction (IPR) \citep{wieneke2012iterative} and Shake-The-Box \citep{schanz2016shake}, numerous ghost particle created during the triangulation limits its application in industry area. This study first gets inspired by optimizing 4 views triangulation task, which is further described in \hyperref[chapter:DLT]{Patallelized DLT} chapter, focuses on small scale particle tracking.
+
 % * This part I use the paragraph from my Lab on Chip paper
 The sustained progress on microfabrication techniques in the last couple of decades has opened new possibilities for microfluidics and, in particular,  the design of biomedical devices and control of processes, including cooling \citep{singhal2004microscale}, mixing  \citep{song2003millisecond,liu2004two}, extraction \citep{hisamoto2001chip, kluge2009production} and drug delivery \citep{tsai2007review, nguyen2013design}. Hence, demands of tracking particle in small volume have increased. In order to overcome illumination and space constraints, techniques based on standard particle tracking, such as holographic \citep{sheng2006digital, soria2008towards, memmolo2011twin, daloglu2018label}, confocal \citep{kinoshita2007three, lima2008vitro}, stereoscopic \citep{lindken2006stereoscopic, bown2006three} and defocus-based \citep{yoon20063d, pereira2007microscale} variants; see discussion in \citet{wereley2010recent}. Development of microlens manufacturing technology and camera sensing allows for distinct possibilities for taking advantage of the so-called light field, LF \citep{gershun1939light}, which describes the distribution of light rays in space instead of 2D projection, in plenoptic function models  \citep{adelson1991plenoptic}.
 
@@ -105,7 +106,7 @@ Compared to algebraic methods, 3D deconvolution is efficient since it avoids sto
 
 % * Finish citing from Lab on Chip paper
 
-Here, this study extends the application of non-terative ray tracing 3D microscale particle tracking ( \hyperref[chapter:MPT]{Microscale Particle Tracking}) to cm-scale since fluid field and particle motion and particle motion are more complex and harder to simulate compare to microscale. \hyperref[chapter:cm-scale]{Cm-scale 3D Particle Tracking} 
+Here, this study extends the application of non-terative ray tracing 3D microscale particle tracking ( \hyperref[chapter:MPT]{Microscale Particle Tracking}) to cm-scale (\hyperref[chapter:cm]{Cm-scale 3D Particle Tracking})since fluid field and particle motion and particle motion are more complex and harder to simulate compare to microscale. \hyperref[chapter:cm-scale]{Cm-scale 3D Particle Tracking} 
 describes the major challenges faced for using this approach with perspective view system.  
 
 \renewcommand{\cleardoublepage}{} %TODO remove those two lines if not reach 20 page
@@ -311,7 +312,7 @@ As a result, the relative error is around 5$\%$ in the corner region and 12 $\%$
      \label{fig:result}
 \end{figure}
 
-\chapter{Cm-scale 3D Particle Tracking - Propose}
+\chapter{Cm-scale 3D Particle Tracking - Propose}\label{chapter:cm}
 Multi-camera-based flow description in Eulerian and Lagrangian frames of reference at mm and cm scales is usually challenging due to shallow depth of field (DOF) from macro lenses and calibration procedures. I want to improve the rapid 3D particle tracking system described in above chapter for cm-scale volume application with perspective view. With the use of a microlens array (MLA) in the intermediate plane between the macro lens and camera sensor (\autoref{fig:ZoomLens_Setup}), light field information can be obtained by a single camera cage system without stereo calibration. A fast ray intersection and cloud point classification method with GPU acceleration is applied to reconstruct 3D particle position in a uniformly discretized image space and then mapped to non-uniform objective space based on macro lens properties. With atomic operation within the onboard memory of GPU, the processing time per image can be under one second. Lagrangian particle tracking Crocker-Grier method is used for particle linking to characterize time-resolved flow field.
 
 \begin{figure}[h]
