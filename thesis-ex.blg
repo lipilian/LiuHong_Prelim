@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis-ex.aux
+The style file: plainnat.bst
+Database file #1: thesisbib.bib
+Warning--can't use both volume and number fields in ester1996density
+Warning--empty publisher in levoy2006light
+Warning--empty publisher in ng2005fourier
+Warning--empty journal in smith2005modern
+You've used 52 entries,
+            2773 wiz_defined-function locations,
+            904 strings with 14207 characters,
+and the built_in function-call counts, 26896 in all, are:
+= -- 2359
+> -- 1692
+< -- 31
++ -- 572
+- -- 519
+* -- 2307
+:= -- 4098
+add.period$ -- 160
+call.type$ -- 52
+change.case$ -- 323
+chr.to.int$ -- 51
+cite$ -- 108
+duplicate$ -- 1179
+empty$ -- 2132
+format.name$ -- 593
+if$ -- 5623
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 55
+newline$ -- 268
+num.names$ -- 208
+pop$ -- 638
+preamble$ -- 1
+purify$ -- 274
+quote$ -- 0
+skip$ -- 915
+stack$ -- 0
+substring$ -- 1106
+swap$ -- 140
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 557
+warning$ -- 4
+while$ -- 239
+width$ -- 0
+write$ -- 678
+(There were 4 warnings)

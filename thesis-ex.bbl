@@ -1,0 +1,337 @@
+\begin{thebibliography}{52}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adelson and Wang(1992)]{adelson1992single}
+Edward~H Adelson and John~YA Wang.
+\newblock Single lens stereo with a plenoptic camera.
+\newblock \emph{IEEE transactions on pattern analysis and machine
+  intelligence}, 14\penalty0 (2):\penalty0 99--106, 1992.
+
+\bibitem[Adelson et~al.(1991)Adelson, Bergen, et~al.]{adelson1991plenoptic}
+Edward~H Adelson, James~R Bergen, et~al.
+\newblock \emph{The plenoptic function and the elements of early vision},
+  volume~2.
+\newblock Vision and Modeling Group, Media Laboratory, Massachusetts Institute
+  of~…, 1991.
+
+\bibitem[An et~al.(2018)An, Lee, Seo, Yun, Cheong, and Kang]{an2018charuco}
+Gwon~Hwan An, Siyeong Lee, Min-Woo Seo, Kugjin Yun, Won-Sik Cheong, and Suk-Ju
+  Kang.
+\newblock Charuco board-based omnidirectional camera calibration method.
+\newblock \emph{Electronics}, 7\penalty0 (12):\penalty0 421, 2018.
+
+\bibitem[Belden et~al.(2010)Belden, Truscott, Axiak, and
+  Techet]{belden2010three}
+Jesse Belden, Tadd~T Truscott, Michael~C Axiak, and Alexandra~H Techet.
+\newblock Three-dimensional synthetic aperture particle image velocimetry.
+\newblock \emph{Meas Sci Tech}, 21\penalty0 (12):\penalty0 125403, 2010.
+
+\bibitem[Bown et~al.(2006)Bown, MacInnes, Allen, and Zimmerman]{bown2006three}
+MR~Bown, JM~MacInnes, RWK Allen, and WBJ Zimmerman.
+\newblock Three-dimensional, three-component velocity measurements using
+  stereoscopic micro-piv and ptv.
+\newblock \emph{Meas Sci Tech}, 17\penalty0 (8):\penalty0 2175, 2006.
+
+\bibitem[Crocker and Grier(1996)]{crocker1996methods}
+John~C Crocker and David~G Grier.
+\newblock Methods of digital video microscopy for colloidal studies.
+\newblock \emph{Journal of colloid and interface science}, 179\penalty0
+  (1):\penalty0 298--310, 1996.
+
+\bibitem[Daloglu et~al.(2018)Daloglu, Luo, Shabbir, Lin, Kim, Lee, Jiang, Cai,
+  Ramesh, Yu, et~al.]{daloglu2018label}
+Mustafa~Ugur Daloglu, Wei Luo, Faizan Shabbir, Francis Lin, Kevin Kim, Inje
+  Lee, Jia-Qi Jiang, Wen-Jun Cai, Vishwajith Ramesh, Meng-Yuan Yu, et~al.
+\newblock Label-free 3d computational imaging of spermatozoon locomotion, head
+  spin and flagellum beating over a large volume.
+\newblock \emph{Light: Science \& Applications}, 7\penalty0 (1):\penalty0
+  17121--17121, 2018.
+
+\bibitem[Engels et~al.(2006)Engels, Stew{\'e}nius, and
+  Nist{\'e}r]{engels2006bundle}
+Chris Engels, Henrik Stew{\'e}nius, and David Nist{\'e}r.
+\newblock Bundle adjustment rules.
+\newblock \emph{Photogrammetric computer vision}, 2\penalty0 (32), 2006.
+
+\bibitem[Ester et~al.(1996)Ester, Kriegel, Sander, Xu,
+  et~al.]{ester1996density}
+Martin Ester, Hans-Peter Kriegel, J{\"o}rg Sander, Xiaowei Xu, et~al.
+\newblock A density-based algorithm for discovering clusters in large spatial
+  databases with noise.
+\newblock In \emph{kdd}, volume~96, pages 226--231, 1996.
+
+\bibitem[Fahringer et~al.(2015)Fahringer, Lynch, and
+  Thurow]{fahringer2015volumetric}
+Timothy~W Fahringer, Kyle~P Lynch, and Brian~S Thurow.
+\newblock Volumetric particle image velocimetry with a single plenoptic camera.
+\newblock \emph{Meas Sci Tech}, 26\penalty0 (11):\penalty0 115201, 2015.
+
+\bibitem[Gershun(1939)]{gershun1939light}
+Andre{\=\i} Gershun.
+\newblock The light field.
+\newblock \emph{J Math Phys Camb}, 18\penalty0 (1-4):\penalty0 51--151, 1939.
+
+\bibitem[Herman and Lent(1976)]{herman1976iterative}
+Gabor~T Herman and Arnold Lent.
+\newblock Iterative reconstruction algorithms.
+\newblock \emph{Comput Biol Med}, 6\penalty0 (4):\penalty0 273--294, 1976.
+
+\bibitem[Hinsch(2002)]{hinsch2002holographic}
+Klaus~D Hinsch.
+\newblock Holographic particle image velocimetry.
+\newblock \emph{Meas Sci Tech}, 13\penalty0 (7):\penalty0 R61, 2002.
+
+\bibitem[Hisamoto et~al.(2001)Hisamoto, Horiuchi, Tokeshi, Hibara, and
+  Kitamori]{hisamoto2001chip}
+Hideaki Hisamoto, Takayuki Horiuchi, Manabu Tokeshi, Akihide Hibara, and
+  Takehiko Kitamori.
+\newblock On-chip integration of neutral ionophore-based ion pair extraction
+  reaction.
+\newblock \emph{Anal Chem}, 73\penalty0 (6):\penalty0 1382--1386, 2001.
+
+\bibitem[Inou{\'e}(2013)]{inoue2013video}
+Shinya Inou{\'e}.
+\newblock \emph{Video microscopy}.
+\newblock Springer Science \& Business Media, 2013.
+
+\bibitem[Kaveti and Singh(2020)]{kaveti2020light}
+Pushyami Kaveti and Hanumant Singh.
+\newblock A light field front-end for robust slam in dynamic environments.
+\newblock \emph{arXiv preprint arXiv:2012.10714}, 2020.
+
+\bibitem[Kinoshita et~al.(2007)Kinoshita, Kaneda, Fujii, and
+  Oshima]{kinoshita2007three}
+Haruyuki Kinoshita, Shohei Kaneda, Teruo Fujii, and Marie Oshima.
+\newblock Three-dimensional measurement and visualization of internal flow of a
+  moving droplet using confocal micro-piv.
+\newblock \emph{Lab Chip}, 7\penalty0 (3):\penalty0 338--346, 2007.
+
+\bibitem[Kluge et~al.(2009)Kluge, Fusaro, Casas, Mazzotti, and
+  Muhrer]{kluge2009production}
+Johannes Kluge, Francesco Fusaro, Nathalie Casas, Marco Mazzotti, and Gerhard
+  Muhrer.
+\newblock Production of plga micro-and nanocomposites by supercritical fluid
+  extraction of emulsions: I. encapsulation of lysozyme.
+\newblock \emph{J Supercrit Fluid}, 50\penalty0 (3):\penalty0 327--335, 2009.
+
+\bibitem[Levoy and Hanrahan(1996)]{levoy1996light}
+Marc Levoy and Pat Hanrahan.
+\newblock Light field rendering.
+\newblock In \emph{Proceedings of the 23rd annual conference on Computer
+  graphics and interactive techniques}, pages 31--42, 1996.
+
+\bibitem[Levoy et~al.(2006)Levoy, Ng, Adams, Footer, and
+  Horowitz]{levoy2006light}
+Marc Levoy, Ren Ng, Andrew Adams, Matthew Footer, and Mark Horowitz.
+\newblock Light field microscopy.
+\newblock In \emph{ACM SIGGRAPH 2006 Papers}, pages 924--934. 2006.
+
+\bibitem[Li et~al.(2017)Li, Ding, Zhao, Qu, Xiong, and
+  Shi]{li2017investigation}
+H~Li, J~Ding, Z~Zhao, W~Qu, J~Xiong, and S~Shi.
+\newblock Investigation of 3d flow behaviour inside a 3$\times$ 3 rod bundle
+  using light field-piv and the matched refractive index techniques.
+\newblock In \emph{The 12th international symposium on particle image
+  velocimetry. Busan, Korea}, 2017.
+
+\bibitem[Lima et~al.(2008)Lima, Wada, Tanaka, Takeda, Ishikawa, Tsubota, Imai,
+  and Yamaguchi]{lima2008vitro}
+Rui Lima, Shigeo Wada, Shuji Tanaka, Motohiro Takeda, Takuji Ishikawa, Ken-ichi
+  Tsubota, Yohsuke Imai, and Takami Yamaguchi.
+\newblock In vitro blood flow in a rectangular pdms microchannel: experimental
+  observations using a confocal micro-piv system.
+\newblock \emph{Biomed Microdevices}, 10\penalty0 (2):\penalty0 153--167, 2008.
+
+\bibitem[Lindken et~al.(2006)Lindken, Westerweel, and
+  Wieneke]{lindken2006stereoscopic}
+Ralph Lindken, Jerry Westerweel, and Bernhard Wieneke.
+\newblock Stereoscopic micro particle image velocimetry.
+\newblock \emph{Exp Fluids}, 41\penalty0 (2):\penalty0 161--171, 2006.
+
+\bibitem[Liu et~al.(2004)Liu, Kim, and Sung]{liu2004two}
+Ying~Zheng Liu, Byoung~Jae Kim, and Hyung~Jin Sung.
+\newblock Two-fluid mixing in a microchannel.
+\newblock \emph{Int J Heat Fluid FL}, 25\penalty0 (6):\penalty0 986--995, 2004.
+
+\bibitem[Lynch et~al.(2012)Lynch, Fahringer, and Thurow]{lynch2012three}
+Kyle Lynch, Tim Fahringer, and Brian Thurow.
+\newblock Three-dimensional particle image velocimetry using a plenoptic
+  camera.
+\newblock In \emph{50th AIAA Aerospace Sciences Meeting including the New
+  Horizons Forum and Aerospace Exposition}, page 1056, 2012.
+
+\bibitem[Memmolo et~al.(2011)Memmolo, Finizio, Paturzo, Miccio, and
+  Ferraro]{memmolo2011twin}
+Pasquale Memmolo, Andrea Finizio, Melania Paturzo, Lisa Miccio, and Pietro
+  Ferraro.
+\newblock Twin-beams digital holography for 3d tracking and quantitative
+  phase-contrast microscopy in microfluidics.
+\newblock \emph{Opt Express}, 19\penalty0 (25):\penalty0 25833--25842, 2011.
+
+\bibitem[Michels et~al.(2018)Michels, Petersen, Palmieri, and
+  Koch]{michels2018simulation}
+Tim Michels, Arne Petersen, Luca Palmieri, and Reinhard Koch.
+\newblock Simulation of plenoptic cameras.
+\newblock In \emph{2018-3DTV-Conference: The True Vision-Capture, Transmission
+  and Display of 3D Video (3DTV-CON)}, pages 1--4. IEEE, 2018.
+
+\bibitem[Ng(2005)]{ng2005fourier}
+Ren Ng.
+\newblock Fourier slice photography.
+\newblock In \emph{ACM SIGGRAPH 2005 Papers}, pages 735--744. 2005.
+
+\bibitem[Nguyen et~al.(2013)Nguyen, Shaegh, Kashaninejad, and
+  Phan]{nguyen2013design}
+Nam-Trung Nguyen, Seyed Ali~Mousavi Shaegh, Navid Kashaninejad, and Dinh-Tuan
+  Phan.
+\newblock Design, fabrication and characterization of drug delivery systems
+  based on lab-on-a-chip technology.
+\newblock \emph{Adv Drug Deliver Rev}, 65\penalty0 (11-12):\penalty0
+  1403--1419, 2013.
+
+\bibitem[Ooms et~al.(2009)Ooms, Lindken, and Westerweel]{ooms2009digital}
+TA~Ooms, R~Lindken, and J~Westerweel.
+\newblock Digital holographic microscopy applied to measurement of a flow in a
+  t-shaped micromixer.
+\newblock \emph{Exp Fluids}, 47\penalty0 (6):\penalty0 941--955, 2009.
+
+\bibitem[Pereira et~al.(2007)Pereira, Lu, Castano-Graff, and
+  Gharib]{pereira2007microscale}
+Francisco Pereira, Jian Lu, Emilio Castano-Graff, and Morteza Gharib.
+\newblock Microscale 3d flow mapping with $\mu$ddpiv.
+\newblock \emph{Exp Fluids}, 42\penalty0 (4):\penalty0 589--599, 2007.
+
+\bibitem[Piller(2012)]{piller2012microscope}
+Horst Piller.
+\newblock \emph{Microscope photometry}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem[Ramasubramanian and Paliwal(1989)]{ramasubramanian1989generalized}
+V~Ramasubramanian and KK~Paliwal.
+\newblock A generalized optimization of the kd tree for fast nearest-neighbour
+  search.
+\newblock In \emph{Fourth IEEE Region 10 International Conference TENCON},
+  pages 565--568. IEEE, 1989.
+
+\bibitem[Schanz et~al.(2016)Schanz, Gesemann, and
+  Schr{\"o}der]{schanz2016shake}
+Daniel Schanz, Sebastian Gesemann, and Andreas Schr{\"o}der.
+\newblock Shake-the-box: Lagrangian particle tracking at high particle image
+  densities.
+\newblock \emph{Experiments in fluids}, 57:\penalty0 1--27, 2016.
+
+\bibitem[Shapiro(1978)]{shapiro1978direct}
+Robert Shapiro.
+\newblock Direct linear transformation method for three-dimensional
+  cinematography.
+\newblock \emph{Research Quarterly. American Alliance for Health, Physical
+  Education and Recreation}, 49\penalty0 (2):\penalty0 197--205, 1978.
+
+\bibitem[Sheng et~al.(2006)Sheng, Malkiel, and Katz]{sheng2006digital}
+Jian Sheng, Edwin Malkiel, and Joseph Katz.
+\newblock Digital holographic microscope for measuring three-dimensional
+  particle distributions and motions.
+\newblock \emph{Appl optics}, 45\penalty0 (16):\penalty0 3893--3901, 2006.
+
+\bibitem[Shi et~al.(2016{\natexlab{a}})Shi, Wang, Ding, Zhao, and
+  New]{shi2016parametric}
+Shengxian Shi, Jianhua Wang, Junfei Ding, Zhou Zhao, and TH~New.
+\newblock Parametric study on light field volumetric particle image
+  velocimetry.
+\newblock \emph{Flow Meas Instrum}, 49:\penalty0 70--88, 2016{\natexlab{a}}.
+
+\bibitem[Shi et~al.(2017)Shi, Ding, New, and Soria]{shi2017light}
+Shengxian Shi, Junfei Ding, Tze~H New, and Julio Soria.
+\newblock Light-field camera-based 3d volumetric particle image velocimetry
+  with dense ray tracing reconstruction technique.
+\newblock \emph{Exp Fluids}, 58\penalty0 (7):\penalty0 1--16, 2017.
+
+\bibitem[Shi et~al.(2016{\natexlab{b}})Shi, Ding, and New]{shi2016dense}
+SX~Shi, Junfei Ding, and TH~New.
+\newblock Dense ray tracing based reconstruction algorithm for light field piv
+  and comparative study with tomo-piv.
+\newblock In \emph{18th International Symposium on the Application of Laser and
+  Imaging Techniques to Fluid Mechanics}, 2016{\natexlab{b}}.
+
+\bibitem[Sibarita(2005)]{sibarita2005deconvolution}
+Jean-Baptiste Sibarita.
+\newblock Deconvolution microscopy.
+\newblock \emph{Adv Biochem Eng Biot}, pages 201--243, 2005.
+
+\bibitem[Singhal et~al.(2004)Singhal, Garimella, and
+  Raman]{singhal2004microscale}
+Vishal Singhal, Suresh~V Garimella, and Arvind Raman.
+\newblock Microscale pumping technologies for microchannel cooling systems.
+\newblock \emph{Appl Mech Rev}, 57\penalty0 (3):\penalty0 191--221, 2004.
+
+\bibitem[Smith(2005)]{smith2005modern}
+Warren~J Smith.
+\newblock Modern lens design.
+\newblock 2005.
+
+\bibitem[Song and Ismagilov(2003)]{song2003millisecond}
+Helen Song and Rustem~F Ismagilov.
+\newblock Millisecond kinetics on a microfluidic chip using nanoliters of
+  reagents.
+\newblock \emph{J Am Chem Soc}, 125\penalty0 (47):\penalty0 14613--14619, 2003.
+
+\bibitem[Soria and Atkinson(2008)]{soria2008towards}
+Julio Soria and Callum Atkinson.
+\newblock Towards 3c-3d digital holographic fluid velocity vector field
+  measurement—tomographic digital holographic piv (tomo-hpiv).
+\newblock \emph{Meas Sci Tech}, 19\penalty0 (7):\penalty0 074002, 2008.
+
+\bibitem[Tao et~al.(2013)Tao, Hadap, Malik, and Ramamoorthi]{tao2013depth}
+Michael~W Tao, Sunil Hadap, Jitendra Malik, and Ravi Ramamoorthi.
+\newblock Depth from combining defocus and correspondence using light-field
+  cameras.
+\newblock In \emph{Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 673--680, 2013.
+
+\bibitem[Truscott et~al.(2017)Truscott, Belden, Ni, Pendlebury, and
+  McEwen]{truscott2017three}
+Tadd~T Truscott, Jesse Belden, Rui Ni, Jonathon Pendlebury, and Bryce McEwen.
+\newblock Three-dimensional microscopic light field particle image velocimetry.
+\newblock \emph{Exp Fluids}, 58\penalty0 (3):\penalty0 16, 2017.
+
+\bibitem[Tsai and Sue(2007)]{tsai2007review}
+Nan-Chyuan Tsai and Chung-Yang Sue.
+\newblock Review of mems-based drug delivery and dosing systems.
+\newblock \emph{Sens Actuators Phys}, 134\penalty0 (2):\penalty0 555--564,
+  2007.
+
+\bibitem[Wereley and Meinhart(2010)]{wereley2010recent}
+Steven~T Wereley and Carl~D Meinhart.
+\newblock Recent advances in micro-particle image velocimetry.
+\newblock \emph{Annu Rev Fluid Mech}, 42:\penalty0 557--576, 2010.
+
+\bibitem[Wieneke(2012)]{wieneke2012iterative}
+Bernhard Wieneke.
+\newblock Iterative reconstruction of volumetric particle distribution.
+\newblock \emph{Measurement Science and Technology}, 24\penalty0 (2):\penalty0
+  024008, 2012.
+
+\bibitem[Xu et~al.(2017)Xu, Ding, Zhao, Atkinson, Soria, and Shi]{xu20173d}
+S~Xu, J~Ding, Z~Zhao, C~Atkinson, J~Soria, and S~Shi.
+\newblock 3d flow measurements of circular air jet at re= 30,000 using light
+  field particle image velocimetry.
+\newblock In \emph{The 12th International Symposium on Particle Image
+  Velocimetry. Busan, Korea}, 2017.
+
+\bibitem[Yoon and Kim(2006)]{yoon20063d}
+Sang~Youl Yoon and Kyung~Chun Kim.
+\newblock 3d particle position and 3d velocity field measurement in a
+  microvolume via the defocusing concept.
+\newblock \emph{Meas Sci Tech}, 17\penalty0 (11):\penalty0 2897, 2006.
+
+\bibitem[Zhu et~al.(2021)Zhu, Wu, Li, Zhang, and Xu]{zhu2021pre}
+Xiaoyu Zhu, Zhian Wu, Jian Li, Biao Zhang, and Chuanlong Xu.
+\newblock A pre-recognition sart algorithm for the volumetric reconstruction of
+  the light field piv.
+\newblock \emph{Opt Laser Eng}, 143:\penalty0 106625, 2021.
+
+\end{thebibliography}
