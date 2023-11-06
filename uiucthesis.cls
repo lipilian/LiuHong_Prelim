@@ -67,8 +67,8 @@
   \timehh=\time \divide\timehh by 60
   \timemm=\time \count255=\timehh \multiply\count255 by -60
     \advance\timemm by \count255
-  \def\draftheader{\slshape Draft of \today\ at
-  \ifnum\timehh<10 0\fi\number\timehh\,:\,\ifnum\timemm<10 0\fi\number\timemm}%
+  %\def\draftheader{\slshape Draft of \today\ at
+  %\ifnum\timehh<10 0\fi\number\timehh\,:\,\ifnum\timemm<10 0\fi\number\timemm}%
 \fi
 \newcommand{\toclabels}{%
     \addtocontents{toc}{\vspace*{-\baselineskip}\hfill Page\endgraf}%
